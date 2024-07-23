@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Estou buscando uma vaga como desenvolvedor backend júnior<br><br>Tenho experiência com as seguintes tecnologias:<br><br>- JavaScript;<br>- Node.js;<br>- TypeScript;<br>- PostgreSQL, MySQL and MongoDB;<br>- Rest APIs;<br>- Express;<br>- G;it;<br>- Docker;<br>- ORM(Sequelize);<br><br>Sou muito disciplinado e esforçado, foco em resolver os problemas da forma mais eficiente</p>
+<p align="left">Estou buscando uma vaga como desenvolvedor backend júnior<br><br>Tenho experiência com as seguintes tecnologias:<br><br>- JavaScript;<br>- Node.js;<br>- TypeScript;<br>- PostgreSQL, MySQL;<br>- Rest APIs;<br>- Express;<br>- G;it;<br>- Docker;<br>- ORM(Sequelize);<br><br>Sou muito disciplinado e esforçado, foco em resolver os problemas da forma mais eficiente</p>
 
 ###
 
